@@ -2,6 +2,8 @@
 
 This is a feature-rich chatbot builder that allows users to define trigger phrases and assign responses such as text, URLs, documents, email templates, quotes, and CSV-linked data.
 
+See it live: https://chatbotbuilderpro.netlify.app
+
 ## 💡 Features
 
 - ✅ Bootstrap 5 dark theme with colorful accents
